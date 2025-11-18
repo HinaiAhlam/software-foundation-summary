@@ -1,0 +1,22 @@
+
+SDLC ( software development life cycle ) :Step by step process for building a software in a way that the designer is going with in easy way. 
+
+It contain a 6 steps or phases to create or build a software. 
+
+1-Analysis : In the Analysis phase The main goal of the Analysis Phase is to gather, analyze, and document detailed requirements for the system or product to be developed, the system requirements are carefully gathered and examined to gain a clear understanding of all stakeholder needs.  
+
+Roll involved :1-   Business Analyst (BA) – Gathers requirements, conducts stakeholder interviews, and documents use cases and process flows. 
+
+2-  Product Owner (PO) – Represents customer needs and priorities; validates and approves requirements. 
+
+3-  Project Manager (PM) – Ensures timelines, resources, and communication across teams during the requirements-gathering process. 
+
+Missing or unclear requirements can have a domino effect across all SDLC phases: 
+
+Design Phase: Architects may create an incorrect or incomplete system design. 
+
+Development Phase: Developers might build features that don’t meet business needs. 
+
+Testing Phase: QA teams won’t have valid acceptance criteria, leading  tundetected defects. 
+
+Deployment & Maintenance: Leads to costly rework, delays, or even system failure after release
