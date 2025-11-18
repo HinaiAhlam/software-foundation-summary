@@ -111,3 +111,14 @@ Works with EF Core (database) or lists in memory.
 A front-end framework for building web apps using C# instead of JavaScript.
 
 Can run on server (Blazor Server) or in browser (Blazor WebAssembly).
+
+
+
+
+Make a comparison table between C#, Java and Python in terms of compiling, speed, usage, advantages, latest version 
+
+C# → Great for Windows, games, and enterprise apps. Fast and modern.
+
+Java → “Write once, run anywhere.” Good for big, cross-platform systems.
+
+Python → Super easy to learn, slower, but perfect for AI, data, and quick scripts.
