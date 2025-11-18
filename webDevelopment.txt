@@ -77,3 +77,37 @@ Saving data (users, products, messages, orders)
 Keeping data safe and organized
 
 Giving data back when the backend asks for it
+
+
+explain in detail the .NET stack tools: SQL Server,   C#,   EF Core,   Linq, Blazor
+1. SQL Server
+
+A database that stores your data (tables, rows, columns).
+
+Example: Customer info, products, orders.
+
+2. C#
+
+The programming language used in .NET.
+
+You write your logic, models, and backend code in C#.
+
+3. EF Core (Entity Framework Core)
+
+A tool that connects C# code to the database.
+
+Lets you work with C# objects instead of writing raw SQL.
+
+Example: db.Products.Where(p => p.Price < 100) gets cheap products.
+
+4. LINQ
+
+A query language inside C# to filter, sort, and manipulate data easily.
+
+Works with EF Core (database) or lists in memory.
+
+5. Blazor
+
+A front-end framework for building web apps using C# instead of JavaScript.
+
+Can run on server (Blazor Server) or in browser (Blazor WebAssembly).
