@@ -1,0 +1,22 @@
+Web development is the process of creating and maintaining websites and web applications that run on the internet. It involves everything from building how a website looks (design) to how it works behind the scenes (functionality).
+
+Three main parts of Web Development
+1. Front-End Development (Client-Side)
+
+This is what users see and interact with on the screen.
+
+Languages used: HTML, CSS, JavaScript
+
+Examples: Layouts, buttons, forms, animations, navigation menus.
+
+2. Back-End Development (Server-Side)
+
+This is the behind-the-scenes logic that makes a website work.
+
+Languages/technologies: Python, PHP, Node.js, Java, Ruby, databases like MySQL, MongoDB
+
+Handles: User accounts, data storage, security, server operations.
+
+3. Full-Stack Development
+
+A full-stack developer works on both front-end and back-end parts of a website.
